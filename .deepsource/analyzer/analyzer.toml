@@ -1,0 +1,3 @@
+name = "RudderChecks"
+description = "Raise issue for any function that does not contain a log message"
+command = "/app/rudder-checks"

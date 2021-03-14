@@ -1,0 +1,8 @@
+title = "Function does not contain a log message"
+category = "style"
+severity = "minor"
+description = """
+All functions should have at least one use of the `log` package.
+"""
+
+recommended = true
